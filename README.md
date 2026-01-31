@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Soy estudiante de último semestre de Tecnología en Desarrollo de Software en la Universidad del Valle. Me encuentro fortaleciendo mis habilidades en desarrollo de software tanto en frontend como en backend, construyendo proyectos prácticos y ampliando constantemente mis conocimientos. Me interesa crear soluciones funcionales, aprender nuevas tecnologías y mejorar mis habilidades como desarrollador full-stack.
+Soy estudiante de Tecnología en Desarrollo de Software en la Universidad del Valle. Me encuentro fortaleciendo mis habilidades en desarrollo de software tanto en frontend como en backend, construyendo proyectos prácticos y ampliando constantemente mis conocimientos. Me interesa crear soluciones funcionales, aprender nuevas tecnologías y mejorar mis habilidades como desarrollador full-stack.
 
 - 🌱 Actualmente sigo aprendiendo y practicando desarrollo full-stack
 - 👯 Me interesa colaborar en proyectos open source
